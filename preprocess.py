@@ -7,21 +7,41 @@ import sys
 
 _PHOTOS_DESC_NAME = "images/images.tsv"
 
+_YEAR = "2025"
+_TRIP_NAME = f"kichik_alay_{_YEAR}"
+
 # input (master) source
-_REPORT_NAME = "source_report_kichik_alay_2025.md"
+_REPORT_NAME = f"source_report_{_TRIP_NAME}.md"
 # output source
-_REPORT_NAME_CH = "source_report_kichik_alay_2025_ch.md"
+_REPORT_NAME_CH = f"source_report_{_TRIP_NAME}_ch.md"
 
 # Output files:
 # Markdown, for github/view
-_OUTPUT_REPORT_NAME_MD = "report_kichik_alay_2025.md"
+_OUTPUT_REPORT_NAME_MD = f"report_{_TRIP_NAME}.md"
 # PDF, for site/upload
-_OUTPUT_REPORT_NAME_PDF = "report_kichik_alay_2025_pdf.md"
+_OUTPUT_REPORT_NAME_PDF = f"report_{_TRIP_NAME}_pdf.md"
 # PDF, for champ
-_OUTPUT_REPORT_NAME_CH = "report_kichik_alay_2025_ch.md"
+_OUTPUT_REPORT_NAME_CH = f"report_{_TRIP_NAME}_ch.md"
 
 _PANDOC = len(sys.argv) > 1 and sys.argv[1] == "pandoc"
 
+_DATA = {
+    "ACTIVE_DAYS": "21",
+    "CATEGORY_WORD": "III",
+    "CHAMP_PROTO_DATE": "21.11.2025_TODO",
+    "CHAMP_PROTO": "https://fst-otm.net/TODO_f9.pdf",
+    "DISTANCE_ALL": "140", # TODO
+    "DISTANCE_RATED": "138", # TODO
+    "LAST_UPDATE": "20.12.2025",
+    "MARSH_CIPHER": "11/3-304",
+    "MARSH_LINK": "https://TODO",
+    "MAX_HEIGHT": "4690",
+    "MAX_SLEEP": "TODO",
+    "NK_TRACK": "https://nakarte.me/#m=12/39.84005/72.55165&l=O/N/F/B/Wp&nktl=Xub6GZHa69C4sn0H4WTJBg",
+    "PEOPLE_COUNT": "7",
+    "TRIP_NAME": _TRIP_NAME,
+    "YEAR": _YEAR,
+}
 
 def _flush_block(day, photo_block, report_text):
     begin = '<a name="photo_{}"></a>'.format(day)
@@ -39,8 +59,16 @@ def _read_file(file_name):
 
 
 def _write_file(file_name, contents):
-    with open(report_name, 'w', encoding='utf-8') as f:
+    with open(file_name, 'w', encoding='utf-8') as f:
         f.write(contents)
+
+
+def _replace_metadata(file_name: str) -> str:
+    text = _read_file(file_name)
+    for key, value in _DATA.items():
+        sub = "{{" + key + "}}"
+        text = text.replace(sub, value)
+    return text
 
 
 def _tex_preprocess(text: str):
@@ -245,8 +273,11 @@ def main():
     replace_result = _flush_block("1", "REPLACEMENT", _TEST_TEXT)
     assert replace_result != _TEST_TEXT
 
-    source_report_text = _read_file(_REPORT_NAME)
+    source_report_text = _replace_metadata(_REPORT_NAME)
     assert source_report_text
+
+    source_readme_text = _replace_metadata("source_readme.md")
+    _write_file("README.md", source_readme_text)
 
     # regex test
     # assert _TEST_TEXT in source_report_text
