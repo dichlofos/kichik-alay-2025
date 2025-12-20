@@ -25,12 +25,21 @@ _OUTPUT_REPORT_NAME_CH = f"report_{_TRIP_NAME}_ch.md"
 
 _PANDOC = len(sys.argv) > 1 and sys.argv[1] == "pandoc"
 
+
+def _read_file(file_name):
+    text = None
+    with open(file_name, encoding="utf-8") as f:
+        text = f.read()
+    return text
+
+
 _DATA = {
     "ACTIVE_DAYS": "21",
     "CATEGORY_WORD": "III",
     "CHAMP_TITLE_RP": "Чемпионате Москвы",
     "CHAMP_PROTO_DATE": "21.02.2026",  # TODO
     "CHAMP_PROTO": "https://fst-otm.net/f9.pdf",  # TODO
+    "CHAMP_PLACE": "???",  # TODO
     "DATE_START": "26.07.2025",
     "DATE_END": "15.08.2025",
     "DISTANCE_ALL": "140", # TODO
@@ -42,9 +51,12 @@ _DATA = {
     "MAX_SLEEP": "TODO",
     "MSU_REPORT_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "NK_TRACK": "https://nakarte.me/#m=12/39.84005/72.55165&l=O/N/F/B/Wp&nktl=Xub6GZHa69C4sn0H4WTJBg",
+    "NEEDLE_MD": _read_file("needle.md"),
+    "NEEDLE_PLAN_MD": _read_file("needle_plan.md"),
     "PEOPLE_COUNT": "7",
+    "REPO_URL": "https://github.com/dichlofos/kichik-alay-2025/blob/main",
     "TRIP_NAME": _TRIP_NAME,
-    "TLIB_CIPHER": "<todo>",  # TODO
+    "TLIB_CIPHER": "<todo>/TLIB",  # TODO
     "VERSION": "0.01", 
     "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
     "YEAR": _YEAR,
@@ -58,13 +70,6 @@ def _flush_block(day, photo_block, report_text):
     return re.sub(marker, begin + '\n' + photo_block + end, report_text, flags=re.DOTALL)
 
 
-def _read_file(file_name):
-    text = None
-    with open(file_name, encoding="utf-8") as f:
-        text = f.read()
-    return text
-
-
 def _write_file(file_name, contents):
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write(contents)
@@ -75,7 +80,7 @@ def _replace_metadata(file_name: str) -> str:
     text = _read_file(file_name)
     for key, value in _DATA.items():
         sub = "{" + key + "}"
-        print(sub)
+        # print(sub)
         text = text.replace(sub, value)
     return text
 
