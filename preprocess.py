@@ -28,18 +28,25 @@ _PANDOC = len(sys.argv) > 1 and sys.argv[1] == "pandoc"
 _DATA = {
     "ACTIVE_DAYS": "21",
     "CATEGORY_WORD": "III",
-    "CHAMP_PROTO_DATE": "21.11.2025_TODO",
-    "CHAMP_PROTO": "https://fst-otm.net/TODO_f9.pdf",
+    "CHAMP_TITLE_RP": "Чемпионате Москвы",
+    "CHAMP_PROTO_DATE": "21.02.2026",  # TODO
+    "CHAMP_PROTO": "https://fst-otm.net/f9.pdf",  # TODO
+    "DATE_START": "26.07.2025",
+    "DATE_END": "15.08.2025",
     "DISTANCE_ALL": "140", # TODO
     "DISTANCE_RATED": "138", # TODO
     "LAST_UPDATE": "20.12.2025",
-    "MARSH_CIPHER": "11/3-304",
-    "MARSH_LINK": "https://TODO",
+    "MARSH_CIPHER": "11/3-304",  # TODO
+    "MARSH_LINK": "https://<todo>",  # TODO
     "MAX_HEIGHT": "4690",
     "MAX_SLEEP": "TODO",
+    "MSU_REPORT_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "NK_TRACK": "https://nakarte.me/#m=12/39.84005/72.55165&l=O/N/F/B/Wp&nktl=Xub6GZHa69C4sn0H4WTJBg",
     "PEOPLE_COUNT": "7",
     "TRIP_NAME": _TRIP_NAME,
+    "TLIB_CIPHER": "<todo>",  # TODO
+    "VERSION": "0.01", 
+    "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
     "YEAR": _YEAR,
 }
 
@@ -61,12 +68,14 @@ def _read_file(file_name):
 def _write_file(file_name, contents):
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write(contents)
+    print(f"Written {file_name}")
 
 
 def _replace_metadata(file_name: str) -> str:
     text = _read_file(file_name)
     for key, value in _DATA.items():
-        sub = "{{" + key + "}}"
+        sub = "{" + key + "}"
+        print(sub)
         text = text.replace(sub, value)
     return text
 
