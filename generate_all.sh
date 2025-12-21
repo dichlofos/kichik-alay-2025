@@ -28,4 +28,5 @@ fi
 
 if grep TODO report_${trip_name}.md README.md ; then
     echo "WARNING: Some TODOs not resolved yet"
+    exit 1
 fi

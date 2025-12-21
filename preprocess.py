@@ -54,6 +54,7 @@ _DATA = {
     "NEEDLE_MD": _read_file("needle.md"),
     "NEEDLE_PLAN_MD": _read_file("needle_plan.md"),
     "PEOPLE_COUNT": "7",
+    "REPO_NAME": "kichik-alay-2025",
     "REPO_URL": "https://github.com/dichlofos/kichik-alay-2025/blob/main",
     "REPORT_FINAL_LINK": "https://disk<todo>",  # TODO
     "TRIP_NAME": _TRIP_NAME,
