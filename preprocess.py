@@ -55,9 +55,10 @@ _DATA = {
     "NEEDLE_PLAN_MD": _read_file("needle_plan.md"),
     "PEOPLE_COUNT": "7",
     "REPO_URL": "https://github.com/dichlofos/kichik-alay-2025/blob/main",
+    "REPORT_FINAL_LINK": "https://disk<todo>",  # TODO
     "TRIP_NAME": _TRIP_NAME,
     "TLIB_CIPHER": "<todo>/TLIB",  # TODO
-    "VERSION": "0.01", 
+    "VERSION": "0.01",
     "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
     "YEAR": _YEAR,
 }
@@ -82,6 +83,15 @@ def _replace_metadata(file_name: str) -> str:
         sub = "{" + key + "}"
         # print(sub)
         text = text.replace(sub, value)
+
+    fail = False
+    for line in text.split("\n"):
+        if re.search(r"\{[A-Z_]+\}", line):
+            print(f"NOT REPLACED: {line}")
+            fail = True
+    if fail:
+        sys.exit(1)
+
     return text
 
 
