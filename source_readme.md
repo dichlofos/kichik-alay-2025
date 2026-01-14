@@ -42,7 +42,7 @@
 - TODO По результатам Чемпионата Москвы 2026 поход занял ?-е место, набрав `??.??` баллов. TODO
 - TODO Маршрутная книжка: [фотокопия]({MARSH_LINK}) TODO
 - TODO [Финальная версия отчёта]({REPORT_FINAL_LINK}) для хранения в архиве TODO
-- TODO Шифр TLIB: `{TLIB_CIPHER}` 
+- TODO Шифр TLIB: `{TLIB_CIPHER}`
 
 # Описания перевалов
 
@@ -50,19 +50,13 @@
 
 # Фотоматериалы
 - Обработанные фотографии к отчёту: каталог `images`
-- Фото TODO:
-  - [Часть 1](https://yadi.sk/xxxx)
-  - [Часть 2](https://yadi.sk/yyyy)
-- Каталог `to_print`: нарезка фото и текстов для печати перед походом
 
 # Треки
 
-Каталог `tracks`: TODO
-- полный трек с точками (`tracks/veltishchev/kirgizsky_2ks_2024_veltishchev_corrected.gpx`)
-- чужие треки (Анна Берзова, Екатерина Бирючева)
-- Каталоги `tracks/veltishchev/etrex` и `tracks/veltishchev/fenix` содержат
-снятые на местности треки на навигаторы Garmin ETrex и часы Garmin Fenix 7
-соответственно
+Каталог `tracks`:
+- полный трек с точками (`tracks/veltishchev/kichik-alay_3ks_2025_veltishchev.gpx`)
+- Каталог `tracks/veltishchev/gpsmap` содержат
+снятые на местности треки на навигатор Garmin GPSMap 64.
 
 # Замечание об авторских правах
 

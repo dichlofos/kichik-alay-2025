@@ -16,7 +16,7 @@
 - Ходовых дней: 21
 - Протяжённость маршрута: 155 км (GPS, без коэффициентов), в зачёт 142 км
 - Максимальная высота: 4690 м
-- Максимальная высота ночёвки: 4430 м
+- Максимальная высота ночёвки: 4440 м
 - Турклуб: [Горный Турклуб МГУ](https://www.geolink-group.com/tourclub)
 - Шифр TLIB: `<todo>/TLIB`
 - Отчёт в~[каталоге Вестры]https://westra.ru/passes/Reports/???)
@@ -55,7 +55,7 @@
 - TODO По результатам Чемпионата Москвы 2026 поход занял ?-е место, набрав `??.??` баллов. TODO
 - TODO Маршрутная книжка: [фотокопия](https://<todo>) TODO
 - TODO [Финальная версия отчёта](https://disk<todo>) для хранения в архиве TODO
-- TODO Шифр TLIB: `<todo>/TLIB` 
+- TODO Шифр TLIB: `<todo>/TLIB`
 
 # Описания перевалов
 
@@ -63,19 +63,13 @@
 
 # Фотоматериалы
 - Обработанные фотографии к отчёту: каталог `images`
-- Фото TODO:
-  - [Часть 1](https://yadi.sk/xxxx)
-  - [Часть 2](https://yadi.sk/yyyy)
-- Каталог `to_print`: нарезка фото и текстов для печати перед походом
 
 # Треки
 
-Каталог `tracks`: TODO
-- полный трек с точками (`tracks/veltishchev/kirgizsky_2ks_2024_veltishchev_corrected.gpx`)
-- чужие треки (Анна Берзова, Екатерина Бирючева)
-- Каталоги `tracks/veltishchev/etrex` и `tracks/veltishchev/fenix` содержат
-снятые на местности треки на навигаторы Garmin ETrex и часы Garmin Fenix 7
-соответственно
+Каталог `tracks`:
+- полный трек с точками (`tracks/veltishchev/kichik-alay_3ks_2025_veltishchev.gpx`)
+- Каталог `tracks/veltishchev/gpsmap` содержат
+снятые на местности треки на навигатор Garmin GPSMap 64.
 
 # Замечание об авторских правах
 
