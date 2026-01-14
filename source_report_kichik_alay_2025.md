@@ -210,6 +210,8 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 Полномочия МКК по выпуску – до четвёртой к.с. включительно.
 
+\newpage
+
 # 2. Описание туристско-спортивного маршрута
 
 **Принятые в~тексте соглашения и~сокращения**:
@@ -254,7 +256,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 Поперечное пологое ребро, содержащее этот перевал, является вторым естественным разделителем.
 
 Таким образом, осевая часть района\т самая легкодоступная, на неё наиболее логично замыкать
-концы "колец" маршрута.
+концы <<колец>> маршрута.
 
 Также следует отметить, что дорога вдоль р. Кичик-Алай достаточно пыльная из-за того,
 что по ней постоянно ездят грузовики, перевозящие уголь. Они образуют местное <<маршрутное такси>>,
@@ -284,7 +286,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 стороной на подъём, было достаточно актуально обладать хорошей и уверенной
 техникой движения по льду в кошках на передних зубьях. Такие навыки хорошо
 ставятся во время зимних ледовых сборов. Поэтому часть группы приняла участие
-в таких сборах в Горной школе "Категория Трудности" под рук. Михаила Ситника.
+в таких сборах в Горной школе <<Категория Трудности>> под рук. Михаила Ситника.
 Также некоторые участники регулярно посещали скалодром, что также способствует
 более уверенному движению по крутому наклонному льду с нижней страховкой.
 
@@ -379,6 +381,8 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 В отличие от Кавказа, можно отметить, что крутые травяные склоны на нашем маршруте
 практически отсутствовали, осыпей гораздо больше в~процентном отношении.
+
+\newpage
 
 ## 2.3. Туристские возможности района
 
@@ -497,14 +501,14 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 |Дата|День|Участок маршрута|Км|H+|H-|H-макс|Н-сон|Вар (GPS)|
 |--|-|--------|--|----|--|--|--|----|
-|26.07|1|г.Ош, аэропорт Манас\т пос.Ак-Талаа~(авто)|80||||1850||
+|26.07|1|г.Ош, аэропорт Манас\т пос.Ак-Талаа~(авто)|80||||1850 (старт)||
 |26.07|1|пос.Ак-Талаа\т д.р.Чугам|12.4|810|50|2610|2610|+1082~--336|
 |27.07|2|м.н.\т д.р.Чугам|6.3|650|0|3260|3260|+760~--105|
 |28.07|3|м.н.\т д.р.Чугам\т пер.Кумбель(1А)\т верх. д.р.Коргон\т д.р.Суу-Чыкты|11.1|670|800|3870|3130|+841~--970|
 |29.07|4|м.н.\т д.р. Суу-Чыкты\т морены лед.Кыргызата|6|680|0|3810|3810|+694~--14|
 |30.07|5|м.н.\т морены лед.Кыргызата\т лед.Кыргызата|4.3|440|0|4250|4250|+456~--4|
 |31.07|6|м.н.\т лед.Кыргызата\т пер.Рижский(2А)\т верх.~д.р.Кашкасу|4.3|250|700|4500|3800|+250~--700|
-|01.08|7|м.н.\т д.р.Кашкасу\т пос.Кашкасу (заброска)|7.2|0|1170|3800|2630|+20~--1190|
+|01.08|7|м.н.\т д.р.Кашкасу\т пос.Кашкасу (заброска)|7.2|0|1170|3800|2630 (обед)|+20~--1190|
 |01.08|7|пос.Кашкасу.\т д.р.Зор-Кашкасу~(авто)|16 (0~зач)||||3490||
 |02.08|8|м.н.\т д.р.Восточный Кичик-Алай\т д.р.Шала|7|720|140|4070|4070|+718~--149|
 |03.08|9|м.н.\т д.р.Шала\т лед.310\т пер.Дмитрия Собянина(2А)\т лед.Восточный Кумтор|4|510|250|4580|4330|+513~--248|
@@ -549,6 +553,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 *г. Москва, аэропорт Шереметьево\т г. Ош\т пос. Ак-Талаа\т д.р.Чугам*
 
 ![](images/cards/01_0726_ele.jpg "День 1: Высотный профиль")
+
 ![](images/cards/01_0726_map.jpg "День 1: Миникарта")
 
 **ЧХВ дня**: 4ч 10м, ГХВ 5ч 20м. Погода хорошая.
@@ -599,15 +604,21 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 В 21:00 отбой, завтра день будет гораздо веселее за счёт того, что все успеют выспаться.
 
 ![](images/scaled/01_01_0726_road.jpg "")
+
 ![](images/scaled/01_02_0726_valley.jpg "")
+
 ![](images/scaled/01_04_0726_valley.jpg "")
+
 ![](images/scaled/01_05_0726_camp_place.jpg "")
+
+\newpage
 
 ### День 2. 27 июля 2025 года.
 
 *м.н. – верх. д.р. Чугам до выс. 3250*
 
 ![](images/cards/02_0727_ele.jpg "День 2: Высотный профиль")
+
 ![](images/cards/02_0727_map.jpg "День 2: Миникарта")
 
 ЧХВ дня: 4ч 07м, ГХВ 5ч 12м.
@@ -648,14 +659,18 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 Ужинаем в 20:30, в 22:00 отбой. План на день выполнен
 полностью и с хорошим запасом по времени.
 
-![](images/scaled/02_01_0727__turn_right.jpg "")
-![](images/scaled/02_02_0727_kosh.jpg "")
+![](images/scaled/02_01_0727__turn_right.jpg ""){width=16cm}
+
+![](images/scaled/02_02_0727_kosh.jpg ""){width=16cm}
+
+\newpage
 
 ### День 3. 28 июля 2025 года
 
 *м.н.\т пер. Кумбель (1А)\т траверс гребня рядом с вер. Мазар\т д.р. Суу-Чыкты*
 
 ![](images/cards/03_0728_ele.jpg "День 3: Высотный профиль")
+
 ![](images/cards/03_0728_map.jpg "День 3: Миникарта")
 
 ЧХВ дня: 6ч 50 мин, ГХВ 8ч 45м.
@@ -672,7 +687,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 В 9:30 на высоте 3620 делаем привал после косого траверса склона. Одна участница отстаёт из-за горняшки,
 идёт медленнее группы. Ещё через ходку делаем привал на травянисто-осыпном склоне, отсюда
-уже хорошо виден перевальный взлёт пер. Кумбель: мелко-осыпная седловина, слегка "марсианский" пейзаж,
+уже хорошо виден перевальный взлёт пер. Кумбель: мелко-осыпная седловина, слегка <<марсианский>> пейзаж,
 почти нет травы и прочей растительности.
 
 Снега и воды на седловине нет, в окрестности неё\т тоже.
@@ -727,16 +742,25 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 Очень подходящая высота для акклиматизации перед более высокими препятствиями.
 
-![](images/scaled/03_01_0728_kumbel_valley_before.jpg "")
-![](images/scaled/03_02_0728_kumbel_valley_before.jpg "")
-![](images/scaled/03_03_0728_kumbel.jpg "")
-![](images/scaled/03_04_0728_kumbel_1a_sedlo.jpg "")
-![](images/scaled/03_05_0728_kumbel_drop.jpg "")
-![](images/scaled/03_06_0728_kumbel_drop.jpg "")
-![](images/scaled/03_07_0728_valley.jpg "")
-![](images/scaled/03_08_0728_valley_suu_chykty.jpg "")
-![](images/scaled/03_09_0728_valley_suu_chykty.jpg "")
+![](images/scaled/03_01_0728_kumbel_valley_before.jpg ""){width=16cm}
 
+![](images/scaled/03_02_0728_kumbel_valley_before.jpg ""){width=16cm}
+
+![](images/scaled/03_03_0728_kumbel.jpg ""){width=16cm}
+
+![](images/scaled/03_04_0728_kumbel_1a_sedlo.jpg ""){width=16cm}
+
+![](images/scaled/03_05_0728_kumbel_drop.jpg ""){width=16cm}
+
+![](images/scaled/03_06_0728_kumbel_drop.jpg ""){width=16cm}
+
+![](images/scaled/03_07_0728_valley.jpg ""){width=16cm}
+
+![](images/scaled/03_08_0728_valley_suu_chykty.jpg ""){width=16cm}
+
+![](images/scaled/03_09_0728_valley_suu_chykty.jpg ""){width=16cm}
+
+\newpage
 
 ## 3.2. Перевал Рижский (2А)
 
@@ -755,7 +779,8 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 *м.н.\т подход под пер. Рижский*
 
 ![](images/cards/04_0729_ele.jpg "День 4: Высотный профиль")
-![](images/cards/04_0729_map.jpg "День 4: Миникарта")
+
+![](images/cards/04_0729_map.jpg "День 4: Миникарта"){height=10cm}
 
 ЧХВ дня: 6ч, ГХВ 7ч 43м.
 
@@ -791,19 +816,27 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 Ставим лагерь, объявляем полуднёвку. Высота 3800.
 
-![](images/scaled/04_01_0729_valley_suu_chykty.jpg "")
-![](images/scaled/04_02_0729_valley_suu_chykty.jpg "")
-![](images/scaled/04_03_0729_valley_suu_chykty.jpg "")
-![](images/scaled/04_04_0729_valley_to_rizhskiy_pass.jpg "")
-![](images/scaled/04_05_0729_valley_to_rizhskiy_pass.jpg "")
-![](images/scaled/04_06_0729_valley_to_rizhskiy_pass.jpg "")
+![](images/scaled/04_01_0729_valley_suu_chykty.jpg ""){width=16cm}
+
+![](images/scaled/04_02_0729_valley_suu_chykty.jpg ""){width=16cm}
+
+![](images/scaled/04_03_0729_valley_suu_chykty.jpg ""){width=16cm}
+
+![](images/scaled/04_04_0729_valley_to_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/04_05_0729_valley_to_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/04_06_0729_valley_to_rizhskiy_pass.jpg ""){width=16cm}
+
+\newpage
 
 ### День 5. 30 июля 2025 года
 
 *м.н.\т подход под пер. взлёт пер. Рижский*
 
 ![](images/cards/05_0730_ele.jpg "День 5: Высотный профиль")
-![](images/cards/05_0730_map.jpg "День 5: Миникарта")
+
+![](images/cards/05_0730_map.jpg "День 5: Миникарта"){height=10cm}
 
 Подъём дежурных 5:00, общий подъём и завтрак 5:30.
 
@@ -821,7 +854,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 Движемся по морене в направлении перевала, выбирая траекторию по возможности
 без лишних наборов и сбросов. На пути слева ПХД нам встречается довольно большая
-наклонная ледовая "промоина", приходится её обходить справа ПХД по
+наклонная ледовая <<промоина>>, приходится её обходить справа ПХД по
 тем участкам морены, где камни лежат получше и не съезжают вниз по ледовым.
 
 Там, где поток воды скрывается подо льдом и камням, смещаемся левее на центральную часть морены.
@@ -832,23 +865,31 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 количества вмороженных в лёд камней). Ледник полностью открытый, трещины практически отсутствуют,
 
 Нетривиальную задачу составляет найти точку, в которой по леднику не течёт большое количество
-воды: он весь изрезан ручьями, крутизна небольшая. Находим небольшой "пятачок", где воды
+воды: он весь изрезан ручьями, крутизна небольшая. Находим небольшую площадку, где воды
 поменьше и ставим там лагерь, засыпая ледяной трухой каверны во льду, так чтобы палатки
 были выше уровня ручейков.
 
 Отсюда хорошо просматривается перевальный взлёт. Завтра\т штурм, делаем ранний отбой.
 
-![](images/scaled/05_01_0730_moraine_rizhskiy_pass.jpg "")
-![](images/scaled/05_02_0730_moraine_lake.jpg "")
-![](images/scaled/05_03_0730_moraine_rizhskiy_pass.jpg "")
-![](images/scaled/05_04_0730_moraine_rizhskiy_pass.jpg "")
-![](images/scaled/05_05_0730_glacier_rizhskiy_pass.jpg "")
-![](images/scaled/05_06_0730_glacier_rizhskiy_pass.jpg "")
+![](images/scaled/05_01_0730_moraine_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/05_02_0730_moraine_lake.jpg ""){width=16cm}
+
+![](images/scaled/05_03_0730_moraine_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/05_04_0730_moraine_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/05_05_0730_glacier_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/05_06_0730_glacier_rizhskiy_pass.jpg ""){width=16cm}
+
+\newpage
 
 ### День 6. 31 июля 2025 года
 *м.н.\т пер. Рижский\т д.р. Кашкасу*
 
 ![](images/cards/06_0731_ele.jpg "День 6: Высотный профиль")
+
 ![](images/cards/06_0731_map.jpg "День 6: Миникарта")
 
 **ЧХВ дня**: 6ч 30м.
@@ -862,7 +903,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 В 7:30 на более крутой части ледника, где уже есть вероятность срыва, делаем две связки (4 и 3),
 начинаем подъём по склону крутизной до 35\г. Кое-где под ногами снег, там образуется подобие ступеней.
 
-Поднимаемся практически "в лоб" по центральной части ледника, так чтобы исключить вероятность приезда сверху
+Поднимаемся практически <<в лоб>> по центральной части ледника, так чтобы исключить вероятность приезда сверху
 каких-нибудь камней со скал. В 8:04 лидер первой связки (Федя) начинает подъём с первой станции на двух
 ледорубах (один из них\т ледовый инструмент) в направлении первого бергшрунда
 (опять-таки, подъём идёт по линии падения воды).
@@ -886,7 +927,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 Есть небольшое озерцо в мульде. Погода хорошая, на горизонте виден пик Ленина.
 
 В 11:50 начинаем спуск с перевала по мелко- и средне-осыпному склону крутизной
-порядка 30\г Ниже осыпь выполаживается, кое-где удаётся воспользоваться "лифтом",
+порядка 30\г Ниже осыпь выполаживается, кое-где удаётся воспользоваться <<лифтом>>,
 съезжая плотной группой.
 
 В 12:45 делаем привал на выполаживании, спустились в перевальный цирк, разутепляемся.
@@ -929,21 +970,32 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 снаряжение и навыки уверенного подъёма по склонам описанной крутизны на передних зубьях
 с нижней страховкой.
 
-![](images/scaled/06_01_0731_up_to_rizhskiy_pass.jpg "")
-![](images/scaled/06_02_0731_up_to_rizhskiy_pass.jpg "")
-![](images/scaled/06_03_0731_up_to_rizhskiy_pass.jpg "")
-![](images/scaled/06_04_0731_up_to_rizhskiy_pass.jpg "")
-![](images/scaled/06_05_0731_rizhskiy_2a_sedlo.jpg "")
-![](images/scaled/06_06_0731_rizhskiy_pass_drop.jpg "")
-![](images/scaled/06_07_0731_rizhskiy_pass_drop.jpg "")
-![](images/scaled/06_08_0731_rizhskiy_pass_drop.jpg "")
-![](images/scaled/06_09_0731_kashkasu_valley.jpg "")
+![](images/scaled/06_01_0731_up_to_rizhskiy_pass.jpg ""){width=16cm}
 
+![](images/scaled/06_02_0731_up_to_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/06_03_0731_up_to_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/06_04_0731_up_to_rizhskiy_pass.jpg ""){width=16cm}
+
+![](images/scaled/06_05_0731_rizhskiy_2a_sedlo.jpg ""){width=16cm}
+
+![](images/scaled/06_06_0731_rizhskiy_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/06_07_0731_rizhskiy_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/06_08_0731_rizhskiy_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/06_09_0731_kashkasu_valley.jpg ""){width=16cm}
+
+\newpage
 
 ### День 7. 1 августа 2025 года
+
 *м.н. – пос. Кашкасу (взятие заброски)\т д.р. Зор-Кашкасу (авто)*
 
 ![](images/cards/07_0801_ele.jpg "День 7: Высотный профиль")
+
 ![](images/cards/07_0801_map.jpg "День 7: Миникарта")
 
 **ЧХВ дня**: 2ч 15м, ГХВ 3ч 22м.
@@ -968,7 +1020,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 Связываемся с куратором, просим прислать машину с заброской поранше плана.
 
 В 10:40 спустились в посёлок Кашкасу. Через минут десять проходим мимо дома, нас встречают местные
-жители и зовут в гости выпить чаю. Правда, под видом "чая" нам подали вкусной жареной
+жители и зовут в гости выпить чаю. Правда, под видом <<чая>> нам подали вкусной жареной
 картохи, салат из помидоров и огурцов, сногсшибательное варенье нескольких сортов,
 лепёшки и всякое прочее. В благодарность оставляем конфеты и сгуху.
 
@@ -1007,11 +1059,16 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 В 18:00 ужинаем, ложимся спать. Высота 3500.
 
-![](images/scaled/07_01_0801_kashkasu_valley.jpg "")
-![](images/scaled/07_02_0801_kashkasu_valley.jpg "")
-![](images/scaled/07_03_0801_kashkasu_valley.jpg "")
-![](images/scaled/07_04_0801_camp_place.jpg "")
+![](images/scaled/07_01_0801_kashkasu_valley.jpg ""){width=16cm}
 
+![](images/scaled/07_02_0801_kashkasu_valley.jpg ""){width=16cm}
+
+![](images/scaled/07_03_0801_kashkasu_valley.jpg ""){width=16cm}
+
+![](images/scaled/07_04_0801_camp_place.jpg ""){width=16cm}
+
+
+\newpage
 
 ## 3.3. Пер. Дмитрия Собянина (2А)
 
@@ -1030,7 +1087,9 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 *м.н.\т д.р. Восточный Кичик-Алай\т д.р. Шала*
 
 ![](images/cards/08_0802_ele.jpg "День 8: Высотный профиль")
+
 ![](images/cards/08_0802_map.jpg "День 8: Миникарта")
+
 **ЧХВ дня**: 4ч 30м.
 
 5:00 подъём дежурных, завтрак 5:30. Ясно, прохладно, иней на палатках.
@@ -1075,7 +1134,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 высота около 4000. Далее идём вдоль потока по морене, поток справа ПХД.
 
 Местное время 15:36. С одной стороны, хочется подойти поближе к леднику, чтобы завтра утром как можно меньше идти
-до седловины перевала, не терять драгоценное утреннее время. С другой стороны, ситуация с бродом "мутная" (как и вода в нём).
+до седловины перевала, не терять драгоценное утреннее время. С другой стороны, ситуация с бродом <<мутная>> (как и вода в нём).
 
 Поток не очень широкий, но бурный в середине, ворочает камни. Бродить не очень хочется, подходящих точек для того, чтобы прыгнуть,
 не видим. Обход слева по моренам тоже не выглядит приятным: с утра уже успели немного устать, и совершать геройские поступки
@@ -1088,17 +1147,26 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 а к 20:00 от него остаётся тонкий ручеёк. Но лагерь уже поставлен, а ужин сварен и съеден,
 и мы просто наслаждаемся верно принятым решением.
 
-![](images/scaled/08_01_0802_road.jpg "")
-![](images/scaled/08_02_0802_bridge.jpg "")
-![](images/scaled/08_03_0802_shala_valley.jpg "")
-![](images/scaled/08_04_0802_shala_valley.jpg "")
-![](images/scaled/08_05_0802_moraine_dm_sobyanina_pass.jpg "")
-![](images/scaled/08_06_0802_moraine_dm_sobyanina_pass.jpg "")
-![](images/scaled/08_07_0802_moraine_dm_sobyanina_pass.jpg "")
+![](images/scaled/08_01_0802_road.jpg ""){width=16cm}
+
+![](images/scaled/08_02_0802_bridge.jpg ""){width=16cm}
+
+![](images/scaled/08_03_0802_shala_valley.jpg ""){width=16cm}
+
+![](images/scaled/08_04_0802_shala_valley.jpg ""){width=16cm}
+
+![](images/scaled/08_05_0802_moraine_dm_sobyanina_pass.jpg ""){width=16cm}
+
+![](images/scaled/08_06_0802_moraine_dm_sobyanina_pass.jpg ""){width=16cm}
+
+![](images/scaled/08_07_0802_moraine_dm_sobyanina_pass.jpg ""){width=16cm}
+
+\newpage
 
 ### День 9. 3 августа 2025 года
 
 ![](images/cards/09_0803_ele.jpg "День 9: Высотный профиль")
+
 ![](images/cards/09_0803_map.jpg "День 9: Миникарта")
 
 **ЧХВ дня**: 5ч 50м.
@@ -1155,17 +1223,27 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 В обратном направлении допускаем большее количество верёвок дюльфера до пологой части, особенно если снега
 совсем не будет.
 
-![](images/scaled/09_01_0803_glacier_to_dm_sobyanina_pass.jpg "")
-![](images/scaled/09_02_0803_glacier_to_dm_sobyanina_pass.jpg "")
-![](images/scaled/09_03_0803_up_to_dm_sobyanina_pass.jpg "")
-![](images/scaled/09_04_0803_up_to_dm_sobyanina_pass.jpg "")
-![](images/scaled/09_05_0803_dm_sobyanina_pass_sedlo.jpg "")
-![](images/scaled/09_06_0803_dm_sobyanina_pass_drop.jpg "")
-![](images/scaled/09_07_0803_dm_sobyanina_pass_drop.jpg "")
-![](images/scaled/09_08_0803_glacier_under_dm_sobyanina_pass.jpg "")
-![](images/scaled/09_09_0803_view_skobeleva_from_dm_sobyanina_pass.jpg "")
-![](images/scaled/09_10_0803_panorama_dm_sobyanina_pass.jpg "")
+![](images/scaled/09_01_0803_glacier_to_dm_sobyanina_pass.jpg ""){width=16cm}
 
+![](images/scaled/09_02_0803_glacier_to_dm_sobyanina_pass.jpg ""){width=16cm}
+
+![](images/scaled/09_03_0803_up_to_dm_sobyanina_pass.jpg ""){width=16cm}
+
+![](images/scaled/09_04_0803_up_to_dm_sobyanina_pass.jpg ""){width=16cm}
+
+![](images/scaled/09_05_0803_dm_sobyanina_pass_sedlo.jpg ""){width=16cm}
+
+![](images/scaled/09_06_0803_dm_sobyanina_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/09_07_0803_dm_sobyanina_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/09_08_0803_glacier_under_dm_sobyanina_pass.jpg ""){width=14cm}
+
+![](images/scaled/09_09_0803_view_skobeleva_from_dm_sobyanina_pass.jpg ""){width=14cm}
+
+![](images/scaled/09_10_0803_panorama_dm_sobyanina_pass.jpg ""){width=14cm}
+
+\newpage
 
 ## 3.4. Перевал Скобелева Западный (2А)
 
@@ -1183,6 +1261,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 *м.н. – пер. Скобелева Западный (план)\т д.р. Зор-Кумтор (аварийный выход, спасработы)*
 
 ![](images/cards/10_0804_ele.jpg "День 10: Высотный профиль")
+
 ![](images/cards/10_0804_map.jpg "День 10: Миникарта")
 
 **ЧХВ дня**: не применимо ввиду спасработ, ГХВ 9ч 45м.
@@ -1316,22 +1395,35 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 Далее было принято решение продолжать маршрут впятером (вернувшись на кольцо к точке схода с него),
 отсыпав ещё часть продуктов для уменьшения веса, ввиду наличия дней запаса.
 
-![](images/scaled/10_01_0804_from_moraine_to_glacier.jpg "")
-![](images/scaled/10_02_0804_glacier_drop.jpg "")
-![](images/scaled/10_03_0804_moraine_drop.jpg "")
-![](images/scaled/10_04_0804_moraine_drop.jpg "")
-![](images/scaled/10_05_0804_moraine_drop.jpg "")
-![](images/scaled/10_06_0804_moraine_drop.jpg "")
-![](images/scaled/10_07_0804_river_ford.jpg "")
-![](images/scaled/10_08_0804_zor_kumtor_valley.jpg "")
-![](images/scaled/10_09_0804_zor_kumtor_donkey.jpg "")
+![](images/scaled/10_01_0804_from_moraine_to_glacier.jpg ""){width=16cm}
 
+![](images/scaled/10_02_0804_glacier_drop.jpg ""){width=16cm}
+
+![](images/scaled/10_03_0804_moraine_drop.jpg ""){width=16cm}
+
+![](images/scaled/10_04_0804_moraine_drop.jpg ""){width=16cm}
+
+![](images/scaled/10_05_0804_moraine_drop.jpg ""){width=16cm}
+
+![](images/scaled/10_06_0804_moraine_drop.jpg ""){width=16cm}
+
+![](images/scaled/10_07_0804_river_ford.jpg ""){width=16cm}
+
+![](images/scaled/10_08_0804_zor_kumtor_valley.jpg ""){width=16cm}
+
+![](images/scaled/10_09_0804_zor_kumtor_donkey.jpg ""){width=16cm}
+
+
+\newpage
 
 ### День 11. 5 августа 2025 года
+
 *м.н. – подход под пер. Скобелева Западный (возвращение на маршрут)*
 
 ![](images/cards/11_0805_ele.jpg "День 11: Высотный профиль")
+
 ![](images/cards/11_0805_map.jpg "День 11: Миникарта")
+
 **ЧХВ дня**: 2ч 30м, ГХВ 4ч 15м.
 
 Подъем дежурного 6:00, завтрак готов 6:16, выход группы из лагеря 7:40.
@@ -1366,17 +1458,25 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 Вечер спокойный, тихий, без осадков. Температура около 10 градусов тепла.
 
-![](images/scaled/11_01_0805_zor_kumtor_valley.jpg "")
-![](images/scaled/11_02_0805_zor_kumtor_valley.jpg "")
-![](images/scaled/11_03_0805_zor_kumtor_valley.jpg "")
-![](images/scaled/11_04_0805_zor_kumtor_valley.jpg "")
+![](images/scaled/11_01_0805_zor_kumtor_valley.jpg ""){width=16cm}
+
+![](images/scaled/11_02_0805_zor_kumtor_valley.jpg ""){width=16cm}
+
+![](images/scaled/11_03_0805_zor_kumtor_valley.jpg ""){height=13cm}
+
+![](images/scaled/11_04_0805_zor_kumtor_valley.jpg ""){width=16cm}
+
+\newpage
 
 ### День 12. 6 августа 2025 года
+
 *м.н. – пер. Скобелева Западный (2А)*
 
 ![](images/cards/12_0806_ele.jpg "День 12: Высотный профиль")
+
 ![](images/cards/12_0806_map.jpg "День 12: Миникарта")
-**ЧХВ дня**: 2ч 30м.
+
+**ЧХВ дня**: 6ч, ГХВ 8ч.
 
 Подъём дежурных 4:00, выход из лагеря 6:16.
 
@@ -1468,47 +1568,75 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 но разрушенные скалы всегда смазывают приятные впечатления.
 
 Альтернативным вариантом спуска могло бы быть провешивание одной верёвки дюльфера по кулуару, который состоит из более чистых скал
-и на нашем фото назван "ложным", но потребовалось бы делать ледовую или снежную точку со сдёргом через перегиб, а это
+и на нашем фото назван <<ложным>>, но потребовалось бы делать ледовую или снежную точку со сдёргом через перегиб, а это
 не очень приятно (ну или делать вынос на расходной петле). Мы не исследовали качество льда выше этого кулуара, но полагаем,
 что до хорошего льда докопаться можно. Следует иметь в виду этот вариант на случай, если скальная вершинка станет ненадёжной
 или вовсе разрушится.
 
-![](images/scaled/12_01_0806_moraine.jpg "")
-![](images/scaled/12_02_0806_under_glacier.jpg "")
-![](images/scaled/12_03_0806_under_glacier.jpg "")
-![](images/scaled/12_04_0806_up_to_glacier.jpg "")
-![](images/scaled/12_05_0806_up_to_glacier.jpg "")
-![](images/scaled/12_06_0806_up_to_glacier.jpg "")
-![](images/scaled/12_07_0806_up_to_glacier.jpg "")
-![](images/scaled/12_08_0806_up_to_glacier.jpg "")
-![](images/scaled/12_09_0806_up_to_glacier.jpg "")
-![](images/scaled/12_10_0806_up_to_glacier.jpg "")
-![](images/scaled/12_11_0806_up_to_glacier.jpg "")
-![](images/scaled/12_12_0806_up_to_glacier.jpg "")
-![](images/scaled/12_13_0806_up_to_glacier.jpg "")
-![](images/scaled/12_14_0806_up_to_glacier.jpg "")
-![](images/scaled/12_15_0806_up_to_glacier.jpg "")
-![](images/scaled/12_16_0806_up_to_glacier.jpg "")
-![](images/scaled/12_17_0806_up_to_glacier.jpg "")
-![](images/scaled/12_18_0806_glacier.jpg "")
-![](images/scaled/12_19_0806_berg.jpg "")
-![](images/scaled/12_20_0806_skobeleva_zapadniy_pass_sedlo.jpg "")
-![](images/scaled/12_21_0806_wrong_drop.jpg "")
-![](images/scaled/12_22_0806_skobeleva_zapadniy_drop.jpg "")
-![](images/scaled/12_23_0806_skobeleva_zapadniy_drop.jpg "")
-![](images/scaled/12_24_0806_glacier_border.jpg "")
-![](images/scaled/12_25_0806_glacier_border.jpg "")
-![](images/scaled/12_26_0806_moraine_lake.jpg "")
-![](images/scaled/12_27_0806_moraine_lake.jpg "")
-![](images/scaled/12_28_0806_moraine_lake.jpg "")
-![](images/scaled/12_29_0806_valley.jpg "")
+![](images/scaled/12_01_0806_moraine.jpg ""){width=16cm}
+
+![](images/scaled/12_02_0806_under_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_03_0806_under_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_04_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_05_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_06_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_07_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_08_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_09_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_10_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_11_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_12_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_13_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_14_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_15_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_16_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_17_0806_up_to_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_18_0806_glacier.jpg ""){width=16cm}
+
+![](images/scaled/12_19_0806_berg.jpg ""){width=16cm}
+
+![](images/scaled/12_20_0806_skobeleva_zapadniy_pass_sedlo.jpg ""){width=16cm}
+
+![](images/scaled/12_21_0806_wrong_drop.jpg ""){width=16cm}
+
+![](images/scaled/12_22_0806_skobeleva_zapadniy_drop.jpg ""){width=16cm}
+
+![](images/scaled/12_23_0806_skobeleva_zapadniy_drop.jpg ""){width=16cm}
+
+![](images/scaled/12_24_0806_glacier_border.jpg ""){width=16cm}
+
+![](images/scaled/12_25_0806_glacier_border.jpg ""){width=16cm}
+
+![](images/scaled/12_26_0806_moraine_lake.jpg ""){width=16cm}
+
+![](images/scaled/12_27_0806_moraine_lake.jpg ""){width=16cm}
+
+![](images/scaled/12_28_0806_moraine_lake.jpg ""){width=16cm}
+
+![](images/scaled/12_29_0806_valley.jpg ""){width=16cm}
 
 \newpage
 
 ## 3.5. Перевал Дамджайлоо Траверсный (1Б)
 
 В нашем варианте прохождения подразумеваем прохождение связки перевалов: на подъём Дамджайлоо (2Б), траверс гребня,
-спуск по леднику под пер. Дамджайлоо Восточный(2А), связка оценивается как 1Б. Эту связку будем называть
+спуск по леднику под пер. Дамджайлоо Восточный (2А), связка оценивается как 1Б. Эту связку будем называть
 пер. Дамджайлоо Траверсный (1Б), следуя классификатору Вестры, но следует понимать, что "собственных"
 перевальных взлётов этот перевал не имеет.
 
@@ -1523,12 +1651,14 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 | Снята записка | ТК МГУ, 2 к.с., рук. Исаев В.И., 10.07.2025 и ЦСТ МАИ, 3 к.с., Лебедев А.А., 29.07.2025 |
 
 ### День 13. 7 августа 2025 года
-*м.н. – пер. Кекджар (нк) – озёра Дамджайлоо*
+
+*м.н. – пер. Кекджар (н/к) – озёра Дамджайлоо*
 
 ![](images/cards/13_0807_ele.jpg "День 13: Высотный профиль")
+
 ![](images/cards/13_0807_map.jpg "День 13: Миникарта")
 
-**ЧХВ дня**: 7ч 44м.
+**ЧХВ дня**: 3ч 30м, ГХВ 4ч 40м.
 
 Подъём дежурных 5:00, общий подъём 5:30, выход из лагеря 7:10.
 
@@ -1563,28 +1693,45 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 набор около 130 м и прошли около 1 км. Площадка закрыта от сильных ветров, вид на озера потрясающий, доступ к воде\т несколько минут,
 купаемся на полудневке, загораем и отдыхаем.
 
-![](images/scaled/13_01_0807_drop_to_valley.jpg "")
-![](images/scaled/13_02_0807_drop_to_valley.jpg "")
-![](images/scaled/13_03_0807_drop_to_valley.jpg "")
-![](images/scaled/13_04_0807_valley.jpg "")
-![](images/scaled/13_05_0807_valley.jpg "")
-![](images/scaled/13_06_0807_kekzhar_pass.jpg "")
-![](images/scaled/13_07_0807_valley.jpg "")
-![](images/scaled/13_08_0807_valley.jpg "")
-![](images/scaled/13_09_0807_valley.jpg "")
-![](images/scaled/13_10_0807_valley.jpg "")
-![](images/scaled/13_11_0807_valley.jpg "")
-![](images/scaled/13_12_0807_valley.jpg "")
-![](images/scaled/13_13_0807_kosh_kol_lake.jpg "")
-![](images/scaled/13_14_0807_damdzhailoo_lake.jpg "")
-![](images/scaled/13_15_0807_damdzhailoo_lake.jpg "")
+![](images/scaled/13_01_0807_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_02_0807_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_03_0807_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_04_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_05_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_06_0807_kekzhar_pass.jpg ""){width=16cm}
+
+![](images/scaled/13_07_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_08_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_09_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_10_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_11_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_12_0807_valley.jpg ""){width=16cm}
+
+![](images/scaled/13_13_0807_kosh_kol_lake.jpg ""){width=16cm}
+
+![](images/scaled/13_14_0807_damdzhailoo_lake.jpg ""){width=16cm}
+
+![](images/scaled/13_15_0807_damdzhailoo_lake.jpg ""){width=16cm}
+
+\newpage
 
 ### День 14. 8 августа 2025 года
 
 ![](images/cards/14_0808_ele.jpg "День 14: Высотный профиль")
+
 ![](images/cards/14_0808_map.jpg "День 14: Миникарта")
 
-**ЧХВ дня**: 5ч 31м.
+**ЧХВ дня**: 6ч, ГХВ 7ч 20м.
 
 Подъём дежурных 5:05, выход 7:07.
 
@@ -1622,9 +1769,8 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 спуститься по ледовому склону. Местами он крутоват, решили повесить пару верёвок и быстро сдюльферять, чтобы не мучаться
 с хождением по осыпи и скалам.
 
-Спуск ведёт в уютную "мульду".
-
-Первая ступень небольшая, около 10 метров перепад, крутизна 25-30\г. Делаем первую станцию, сдюльферяли за 10 минут всем составом,
+Спуск ведёт в уютную <<мульду>>: Первая ступень небольшая, около 10 метров перепад, крутизна 25-30\г.
+Делаем первую станцию, сдюльферяли за 10 минут всем составом,
 кроме последнего, который спустился на передних зубьях и нижней страховкой (так как внизу
 выкат ровный и без трещин, а склон совсем не крутой и для нашего замыкающего-скалолаза сложности не представлял).
 
@@ -1677,38 +1823,65 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 По вышеописанным причинам перевал можно назвать разнообразным, но лютого восторга (в отличие от Спартакиады) он у нас не вызвал.
 
-![](images/scaled/14_01_0808_damdzhailoo_lake.jpg "")
-![](images/scaled/14_02_0808_damdzhailoo_lake.jpg "")
-![](images/scaled/14_03_0808_up_to_damdzhailoo_pass.jpg "")
-![](images/scaled/14_04_0808_up_to_damdzhailoo_pass.jpg "")
-![](images/scaled/14_05_0808_up_to_damdzhailoo_pass.jpg "")
-![](images/scaled/14_06_0808_up_to_damdzhailoo_pass.jpg "")
-![](images/scaled/14_07_0808_glacier_valley_view.jpg "")
-![](images/scaled/14_08_0808_damdzhailoo_lakes.jpg "")
-![](images/scaled/14_09_0808_damdzhailoo_zap_pass.jpg "")
-![](images/scaled/14_10_0808_damdzhailoo_zap_pass.jpg "")
-![](images/scaled/14_11_0808_kichik_damtoo_peak.jpg "")
-![](images/scaled/14_12_0808_damdzhailoo_vost_pass_drop.jpg "")
-![](images/scaled/14_13_0808_damdzhailoo_vost_pass_drop.jpg "")
-![](images/scaled/14_14_0808_damdzhailoo_vost_pass_drop.jpg "")
-![](images/scaled/14_15_0808_damdzhailoo_vost_pass_drop.jpg "")
-![](images/scaled/14_16_0808_damdzhailoo_vost_pass_drop.jpg "")
-![](images/scaled/14_17_0808_damdzhailoo_zap_pass.jpg "")
-![](images/scaled/14_18_0808_damdzhailoo_zap_pass.jpg "")
-![](images/scaled/14_19_0808_moraine_kumtor_zap.jpg "")
-![](images/scaled/14_20_0808_moraine_kumtor_zap.jpg "")
-![](images/scaled/14_21_0808_camp_site.jpg "")
-![](images/scaled/14_22_0808_camp_site.jpg "")
-![](images/scaled/14_22_0808_camp_site_drop.jpg "")
-![](images/scaled/14_23_0808_camp_site_view.jpg "")
-![](images/scaled/14_24_0808_camp_site_view.jpg "")
+![](images/scaled/14_01_0808_damdzhailoo_lake.jpg ""){width=16cm}
+
+![](images/scaled/14_02_0808_damdzhailoo_lake.jpg ""){width=16cm}
+
+![](images/scaled/14_03_0808_up_to_damdzhailoo_pass.jpg ""){width=16cm}
+
+![](images/scaled/14_04_0808_up_to_damdzhailoo_pass.jpg ""){width=16cm}
+
+![](images/scaled/14_05_0808_up_to_damdzhailoo_pass.jpg ""){width=16cm}
+
+![](images/scaled/14_06_0808_up_to_damdzhailoo_pass.jpg ""){width=16cm}
+
+![](images/scaled/14_07_0808_glacier_valley_view.jpg ""){width=16cm}
+
+![](images/scaled/14_08_0808_damdzhailoo_lakes.jpg ""){width=16cm}
+
+![](images/scaled/14_09_0808_damdzhailoo_zap_pass.jpg ""){height=12cm}
+
+![](images/scaled/14_10_0808_damdzhailoo_zap_pass.jpg ""){widht=16cm}
+
+![](images/scaled/14_11_0808_kichik_damtoo_peak.jpg ""){width=16cm}
+
+![](images/scaled/14_12_0808_damdzhailoo_vost_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/14_13_0808_damdzhailoo_vost_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/14_14_0808_damdzhailoo_vost_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/14_15_0808_damdzhailoo_vost_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/14_16_0808_damdzhailoo_vost_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/14_17_0808_damdzhailoo_zap_pass.jpg ""){width=16cm}
+
+![](images/scaled/14_18_0808_damdzhailoo_zap_pass.jpg ""){width=16cm}
+
+![](images/scaled/14_19_0808_moraine_kumtor_zap.jpg ""){width=16cm}
+
+![](images/scaled/14_20_0808_moraine_kumtor_zap.jpg ""){width=16cm}
+
+![](images/scaled/14_21_0808_camp_site.jpg ""){width=16cm}
+
+![](images/scaled/14_22_0808_camp_site.jpg ""){width=16cm}
+
+![](images/scaled/14_22_0808_camp_site_drop.jpg ""){width=16cm}
+
+![](images/scaled/14_23_0808_camp_site_view.jpg ""){width=16cm}
+
+![](images/scaled/14_24_0808_camp_site_view.jpg ""){width=16cm}
+
+\newpage
 
 ### День 15. 9 августа 2025 года
 
 ![](images/cards/15_0809_ele.jpg "День 15: Высотный профиль")
+
 ![](images/cards/15_0809_map.jpg "День 15: Миникарта")
 
-**ЧХВ дня**: 5ч 31м.
+**ЧХВ дня**: 4ч 20м, ГХВ 5ч 30м.
 
 Подъём дежурных, как обычно, в 5:00, общий в 5:30.
 
@@ -1778,13 +1951,21 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 Гезартом, и на месте МН нет проточной воды, пришлось брать воду из озера. Руководитель недоволен крюком и ветром на точке ночёвки,
 без потери общности можно было бы встать чуть пониже у реки на травянистых лужайках, закрытых холмами от ветра.
 
-![](images/scaled/15_01_0809_valley.jpg "")
-![](images/scaled/15_02_0809_valley.jpg "")
-![](images/scaled/15_03_0809_valley.jpg "")
-![](images/scaled/15_04_0809_road.jpg "")
-![](images/scaled/15_05_0809_valley.jpg "")
-![](images/scaled/15_06_0809_valley.jpg "")
-![](images/scaled/15_07_0809_camp_site.jpg "")
+![](images/scaled/15_01_0809_valley.jpg ""){width=16cm}
+
+![](images/scaled/15_02_0809_valley.jpg ""){width=16cm}
+
+![](images/scaled/15_03_0809_valley.jpg ""){width=16cm}
+
+![](images/scaled/15_04_0809_road.jpg ""){width=16cm}
+
+![](images/scaled/15_05_0809_valley.jpg ""){width=16cm}
+
+![](images/scaled/15_06_0809_valley.jpg ""){width=16cm}
+
+![](images/scaled/15_07_0809_camp_site.jpg ""){width=16cm}
+
+\newpage
 
 ## 3.6. Перевал Гезарт Ложный (1Б)
 
@@ -1803,11 +1984,12 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 *м.н.\т пер. Гезарт Ложный (1Б)\т срединная морена лед. Гезарт*
 
 ![](images/cards/16_0810_ele.jpg "День 16: Высотный профиль")
+
 ![](images/cards/16_0810_map.jpg "День 16: Миникарта")
 
-**ЧХВ дня**: 2ч 34м.
+**ЧХВ дня**: 4ч, ГХВ 5ч.
 
-Подъём 5:00, выход 7:14
+Подъём 5:00, выход 7:14.
 
 Ходка до 7:35. Направление от озера к треку Юли Федуловой, на ЮЗ от точки места ночевки.
 
@@ -1865,16 +2047,25 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 встали на МН в 1400 м от пер. Спартакиада
 на высоте 4450 м (12:50, 39.877762, 72.416054).
 
-![](images/scaled/16_01_0810_up_to_gezart_pass.jpg "")
-![](images/scaled/16_02_0810_up_to_gezart_pass.jpg "")
-![](images/scaled/16_03_0810_up_to_gezart_pass.jpg "")
-![](images/scaled/16_04_0810_up_to_gezart_pass.jpg "")
-![](images/scaled/16_05_0810_up_to_gezart_pass.jpg "")
-![](images/scaled/16_06_0810_up_to_gezart_pass.jpg "")
-![](images/scaled/16_07_0810_gezart_pass.jpg "")
-![](images/scaled/16_08_0810_gezart_pass_drop.jpg "")
-![](images/scaled/16_09_0810_gezart_pass_drop.jpg "")
-![](images/scaled/16_10_0810_gezart_glacier.jpg "")
+![](images/scaled/16_01_0810_up_to_gezart_pass.jpg ""){width=16cm}
+
+![](images/scaled/16_02_0810_up_to_gezart_pass.jpg ""){width=16cm}
+
+![](images/scaled/16_03_0810_up_to_gezart_pass.jpg ""){width=16cm}
+
+![](images/scaled/16_04_0810_up_to_gezart_pass.jpg ""){width=16cm}
+
+![](images/scaled/16_05_0810_up_to_gezart_pass.jpg ""){width=16cm}
+
+![](images/scaled/16_06_0810_up_to_gezart_pass.jpg ""){width=16cm}
+
+![](images/scaled/16_07_0810_gezart_pass.jpg ""){width=16cm}
+
+![](images/scaled/16_08_0810_gezart_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/16_09_0810_gezart_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/16_10_0810_gezart_glacier.jpg ""){width=16cm}
 
 \newpage
 
@@ -1891,12 +2082,14 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 | Снята записка | (к туру не поднимались) |
 
 ### День 17. 11 августа 2025 года
-*м.н.\т оз. Адыгене\т пер. Джаламыш (1Б)\т дол. р. Джаламыш\т подход под пер. Ашутор*
+
+*м.н.\т пер. Спартакиады (2А)\т д.р. Джума-су*
 
 ![](images/cards/17_0811_ele.jpg "День 17: Высотный профиль")
+
 ![](images/cards/17_0811_map.jpg "День 17: Миникарта")
 
-**ЧХВ дня**: 9ч 42м.
+**ЧХВ дня**: 7ч, ГХВ 8ч 20м.
 
 Подъём дежурных 4:00, выход 6:35.
 
@@ -1992,37 +2185,61 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 как и многие чисто снежно-ледовые препятствия. Камнеопасность по нашим данным отсутствует
 при соблюдении режима прохождения (утром).
 
-![](images/scaled/17_01_0811_up_to_spartakiada_pass.jpg "")
-![](images/scaled/17_02_0811_up_to_spartakiada_pass.jpg "")
-![](images/scaled/17_03_0811_gezart_glacier.jpg "")
-![](images/scaled/17_04_0811_up_to_spartakiada_pass.jpg "")
-![](images/scaled/17_05_0811_up_to_spartakiada_pass.jpg "")
-![](images/scaled/17_06_0811_up_to_spartakiada_pass.jpg "")
-![](images/scaled/17_07_0811_spartakiada_pass_sedlo.jpg "")
-![](images/scaled/17_08_0811_spartakiada_pass_sedlo.jpg "")
-![](images/scaled/17_09_0811_spartakiada_pass_sedlo.jpg "")
-![](images/scaled/17_10_0811_spartakiada_pass_drop.jpg "")
-![](images/scaled/17_11_0811_spartakiada_pass_drop.jpg "")
-![](images/scaled/17_12_0811_spartakiada_pass_drop.jpg "")
-![](images/scaled/17_13_0811_drop_to_valley.jpg "")
-![](images/scaled/17_14_0811_drop_to_valley.jpg "")
-![](images/scaled/17_15_0811_drop_to_valley.jpg "")
-![](images/scaled/17_16_0811_drop_to_valley.jpg "")
-![](images/scaled/17_17_0811_drop_to_valley.jpg "")
-![](images/scaled/17_18_0811_drop_to_valley.jpg "")
-![](images/scaled/17_19_0811_drop_to_valley.jpg "")
-![](images/scaled/17_20_0811_drop_to_valley.jpg "")
-![](images/scaled/17_21_0811_drop_to_valley.jpg "")
-![](images/scaled/17_22_0811_camp_site.jpg "")
+![](images/scaled/17_01_0811_up_to_spartakiada_pass.jpg ""){width=16cm}
 
+![](images/scaled/17_02_0811_up_to_spartakiada_pass.jpg ""){width=16cm}
+
+![](images/scaled/17_03_0811_gezart_glacier.jpg ""){width=16cm}
+
+![](images/scaled/17_04_0811_up_to_spartakiada_pass.jpg ""){width=16cm}
+
+![](images/scaled/17_05_0811_up_to_spartakiada_pass.jpg ""){width=16cm}
+
+![](images/scaled/17_06_0811_up_to_spartakiada_pass.jpg ""){width=16cm}
+
+![](images/scaled/17_07_0811_spartakiada_pass_sedlo.jpg ""){width=16cm}
+
+![](images/scaled/17_08_0811_spartakiada_pass_sedlo.jpg ""){width=16cm}
+
+![](images/scaled/17_09_0811_spartakiada_pass_sedlo.jpg ""){width=16cm}
+
+![](images/scaled/17_10_0811_spartakiada_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/17_11_0811_spartakiada_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/17_12_0811_spartakiada_pass_drop.jpg ""){width=16cm}
+
+![](images/scaled/17_13_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_14_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_15_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_16_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_17_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_18_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_19_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_20_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_21_0811_drop_to_valley.jpg ""){width=16cm}
+
+![](images/scaled/17_22_0811_camp_site.jpg ""){width=16cm}
+
+\newpage
 
 ### День 18. 12 августа 2025 года
+
 *м.н.\т д.р. Джума-Су\т д.р. Терермеч*
 
 ![](images/cards/18_0812_ele.jpg "День 18: Высотный профиль")
+
 ![](images/cards/18_0812_map.jpg "День 18: Миникарта")
 
-**ЧХВ дня**: 8ч.
+**ЧХВ дня**: 4ч 15м, ГХВ 5ч 30м.
 
 Подъём дежурных 5:10, выход из лагеря 7:40.
 
@@ -2060,21 +2277,29 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 **ровных** площадок для ночевки. Поставили на эту ночь одну палатку на пятерых, потому что хороших мест под две палатки
 не нашли, а выравнивать травянистый склон очень пыльно и муторно. Спать на такой высоте уже стало снова жарко.
 
-![](images/scaled/18_01_0812_dzhuma_su_valley.jpg "")
-![](images/scaled/18_02_0812_dzhuma_su_valley.jpg "")
-![](images/scaled/18_03_0812_tegermech_valley.jpg "")
-![](images/scaled/18_04_0812_tegermech_valley.jpg "")
-![](images/scaled/18_05_0812_tegermech_valley.jpg "")
-![](images/scaled/18_06_0812_tegermech_valley.jpg "")
+![](images/scaled/18_01_0812_dzhuma_su_valley.jpg ""){width=16cm}
 
+![](images/scaled/18_02_0812_dzhuma_su_valley.jpg ""){width=16cm}
+
+![](images/scaled/18_03_0812_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/18_04_0812_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/18_05_0812_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/18_06_0812_tegermech_valley.jpg ""){width=16cm}
+
+\newpage
 
 ### День 19. 13 августа 2025 года
+
 *м.н.\т спуск по д.р. Тегермеч*
 
 ![](images/cards/19_0813_ele.jpg "День 19: Высотный профиль")
+
 ![](images/cards/19_0813_map.jpg "День 19: Миникарта")
 
-**ЧХВ дня**: 8ч.
+**ЧХВ дня**: 3ч 20м, 5ч 17м.
 
 Чтобы избежать жары, устраиваем ранний подъём.
 
@@ -2134,11 +2359,16 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 Также в 150 м на З от точки был удобный для тренировки брода берег реки.
 11:26 у МН первой точки, 12:46\т окончательно ставим лагерь.
 
-![](images/scaled/19_01_0813_tegermech_valley.jpg "")
-![](images/scaled/19_02_0813_tegermech_valley.jpg "")
-![](images/scaled/19_03_0813_tegermech_valley.jpg "")
-![](images/scaled/19_04_0813_tegermech_valley.jpg "")
-![](images/scaled/19_05_0813_tegermech_valley.jpg "")
+![](images/scaled/19_01_0813_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/19_02_0813_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/19_03_0813_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/19_04_0813_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/19_05_0813_tegermech_valley.jpg ""){width=16cm}
+
 
 ### День 20. 14 августа 2025 года
 
@@ -2166,16 +2396,23 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 не рекомендуются, решили тренировку на этом прекратить, во имя безопасности: получить камнем по ноге
 даже в ботинке не очень приятно, ноги надо беречь.
 
-![](images/scaled/20_01_0814_tegermech_valley.jpg "")
-![](images/scaled/20_02_0814_tegermech_valley.jpg "")
-![](images/scaled/20_03_0814_tegermech_valley.jpg "")
-![](images/scaled/20_04_0814_tegermech_valley.jpg "")
+![](images/scaled/20_01_0814_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/20_02_0814_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/20_03_0814_tegermech_valley.jpg ""){width=16cm}
+
+![](images/scaled/20_04_0814_tegermech_valley.jpg ""){width=16cm}
+
+\newpage
 
 ### День 21. 15 августа 2025 года
 
 ![](images/cards/21_0815_ele.jpg "День 21: Высотный профиль")
+
 ![](images/cards/21_0815_map.jpg "День 21: Миникарта")
-**ЧХВ дня**: 8ч.
+
+**ЧХВ дня**: 40м, ГХВ 50м.
 
 Вышли из лагеря в 8:50, вернулись на трек. За 29 минут по каменистой хорошо читаемой тропе
 поднялись около 80 м и спустились до коша, уклон до 20 градусов. После спуска на высоте 1550 м
@@ -2200,7 +2437,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 С подробным описанием спасработ в группе Бирючевой можно ознакомиться в соотв. отчёте.
 
-![](images/scaled/21_01_0815_tegermech_valley.jpg "")
+![](images/scaled/21_01_0815_tegermech_valley.jpg ""){width=16cm}
 
 \newpage
 
@@ -2425,6 +2662,8 @@ Leatherman. Также брали запасную ложку и~запасны�
 [https://www.geolink-group.com/tourclub/trips/2018ip3_1/](https://www.geolink-group.com/tourclub/trips/2018ip3_1/)
 5. Каталог перевалов [pereval.space](https://pereval.space) (бывший pereval.online)
 6. Каталог перевалов на сайте [westra.ru](https://westra.ru)
+
+\newpage
 
 # Приложение 1. Инструментарий
 
