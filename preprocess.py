@@ -42,13 +42,13 @@ _DATA = {
     "CHAMP_PLACE": "???",  # TODO
     "DATE_START": "26.07.2025",
     "DATE_END": "15.08.2025",
-    "DISTANCE_ALL": "140", # TODO
-    "DISTANCE_RATED": "138", # TODO
+    "DISTANCE_ALL": "155", # TODO
+    "DISTANCE_RATED": "142", # TODO
     "LAST_UPDATE": "20.12.2025",
     "MARSH_CIPHER": "11/3-304",  # TODO
     "MARSH_LINK": "https://<todo>",  # TODO
     "MAX_HEIGHT": "4690",
-    "MAX_SLEEP": "TODO",
+    "MAX_SLEEP": "4430",
     "MSU_REPORT_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "NK_TRACK": "https://nakarte.me/#m=12/39.84005/72.55165&l=O/N/F/B/Wp&nktl=Xub6GZHa69C4sn0H4WTJBg",
     "NEEDLE_MD": _read_file("needle.md"),
