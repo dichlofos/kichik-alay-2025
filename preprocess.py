@@ -44,8 +44,8 @@ _DATA = {
     "DATE_END": "15.08.2025",
     "DISTANCE_ALL": "155",
     "DISTANCE_RATED": "142",
-    "LAST_UPDATE": "20.12.2025",
-    "MARSH_CIPHER": "11/3-304",  # TODO
+    "LAST_UPDATE": "14.01.2026",
+    "MARSH_CIPHER": "11/3-306",  # TODO
     "MARSH_LINK": "https://<todo>",  # TODO
     "MAX_HEIGHT": "4690",
     "MAX_SLEEP": "4440",
@@ -56,10 +56,10 @@ _DATA = {
     "PEOPLE_COUNT": "7",
     "REPO_NAME": "kichik-alay-2025",
     "REPO_URL": "https://github.com/dichlofos/kichik-alay-2025/blob/main",
-    "REPORT_FINAL_LINK": "https://disk<todo>",  # TODO
+    "REPORT_FINAL_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "TRIP_NAME": _TRIP_NAME,
     "TLIB_CIPHER": "<todo>/TLIB",  # TODO
-    "VERSION": "0.01",
+    "VERSION": "0.2",
     "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
     "YEAR": _YEAR,
 }

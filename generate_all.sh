@@ -26,7 +26,7 @@ if false; then
         -o report_${trip_name}_ch.pdf
 fi
 
-if grep TODO report_${trip_name}.md README.md ; then
+if grep TODO report_${trip_name}.md README.md preprocess.py ; then
     echo "WARNING: Some TODOs not resolved yet"
     exit 1
 fi

@@ -603,13 +603,13 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 
 В 21:00 отбой, завтра день будет гораздо веселее за счёт того, что все успеют выспаться.
 
-![](images/scaled/01_01_0726_road.jpg "")
+![](images/scaled/01_01_0726_road.jpg ""){width=16cm}
 
-![](images/scaled/01_02_0726_valley.jpg "")
+![](images/scaled/01_02_0726_valley.jpg ""){width=16cm}
 
-![](images/scaled/01_04_0726_valley.jpg "")
+![](images/scaled/01_04_0726_valley.jpg ""){width=16cm}
 
-![](images/scaled/01_05_0726_camp_place.jpg "")
+![](images/scaled/01_05_0726_camp_place.jpg ""){width=16cm}
 
 \newpage
 
