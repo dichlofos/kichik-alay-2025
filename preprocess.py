@@ -59,7 +59,7 @@ _DATA = {
     "REPORT_FINAL_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "TRIP_NAME": _TRIP_NAME,
     "TLIB_CIPHER": "<todo>/TLIB",  # TODO
-    "VERSION": "0.2",
+    "VERSION": "0.3",
     "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
     "YEAR": _YEAR,
 }
