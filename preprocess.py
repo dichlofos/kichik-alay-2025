@@ -45,7 +45,7 @@ _DATA = {
     "DISTANCE_ALL": "155",
     "DISTANCE_RATED": "142",
     "LAST_UPDATE": "14.01.2026",
-    "MARSH_CIPHER": "11/3-306",  # TODO
+    "MARSH_CIPHER": "11/3-306",
     "MARSH_LINK": "https://<todo>",  # TODO
     "MAX_HEIGHT": "4690",
     "MAX_SLEEP": "4440",

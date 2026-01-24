@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2025-06-07T20:00:50.701Z</time>
+	</metadata>
+	<wpt lat="39.802160" lon="72.677129">
+		<name>БРОД</name>
+	</wpt>
+	<wpt lat="39.801025" lon="72.681977">
+		<name>НОЧЬ18</name>
+	</wpt>
+	<wpt lat="39.785020" lon="72.667755">
+		<name>ТУР МАРКЕСА</name>
+	</wpt>
+	<wpt lat="39.764533" lon="72.668754">
+		<name>ОБЕД19</name>
+	</wpt>
+	<wpt lat="39.741737" lon="72.658959">
+		<name>НОЧЬ19</name>
+	</wpt>
+	<wpt lat="39.634896" lon="72.669715">
+		<name>ФИНИШ</name>
+	</wpt>
+	<wpt lat="39.930153" lon="72.150803">
+		<name>Брод 1</name>
+	</wpt>
+	<wpt lat="39.931917" lon="72.152088">
+		<name>Брод2</name>
+	</wpt>
+	<wpt lat="39.933882" lon="72.154028">
+		<name>МН1</name>
+	</wpt>
+	<wpt lat="39.933579" lon="72.157559">
+		<name>БРОД3</name>
+	</wpt>
+	<wpt lat="39.933030" lon="72.158417">
+		<name>БРОД4</name>
+	</wpt>
+	<wpt lat="39.932860" lon="72.159579">
+		<name>БРОД5</name>
+	</wpt>
+	<wpt lat="39.922746" lon="72.175660">
+		<name>МОСТ1</name>
+	</wpt>
+	<wpt lat="39.918033" lon="72.209541">
+		<name>МЕСТО ДЛЯ ОБЕДА</name>
+	</wpt>
+	<wpt lat="39.917862" lon="72.223398">
+		<name>ОБЕД</name>
+	</wpt>
+	<wpt lat="39.917781" lon="72.223206">
+		<name>МОСТ2</name>
+	</wpt>
+	<wpt lat="39.918583" lon="72.254553">
+		<name>ПЕРЕВАЛ ДАСТАР-АТА</name>
+	</wpt>
+	<wpt lat="39.916630" lon="72.256847">
+		<name>НОЧЬ2</name>
+	</wpt>
+	<wpt lat="39.924253" lon="72.283446">
+		<name>РУЧЕЙ</name>
+	</wpt>
+	<wpt lat="39.924411" lon="72.286106">
+		<name>МОСТ</name>
+	</wpt>
+	<wpt lat="39.913727" lon="72.343175">
+		<name>ОЗЕРЦО</name>
+	</wpt>
+	<wpt lat="39.905946" lon="72.349616">
+		<name>ЗАБРОСКА</name>
+	</wpt>
+	<wpt lat="39.918710" lon="72.316818">
+		<name>ЛАГЕРЬ</name>
+	</wpt>
+	<wpt lat="39.842742" lon="72.334132">
+		<name>ПЕР ЗЕБРА</name>
+	</wpt>
+	<wpt lat="39.850805" lon="72.339989">
+		<name>ОБЕД6</name>
+	</wpt>
+	<wpt lat="39.867675" lon="72.348362">
+		<name>НОЧЬ6</name>
+	</wpt>
+	<wpt lat="39.894424" lon="72.328722">
+		<name>МОСТ</name>
+	</wpt>
+	<wpt lat="39.894312" lon="72.328127">
+		<name>МОСТ2</name>
+	</wpt>
+	<wpt lat="39.918392" lon="72.327016">
+		<name>ОБЕД7</name>
+	</wpt>
+	<wpt lat="39.907038" lon="72.348777">
+		<name>НОЧЬ7</name>
+	</wpt>
+	<wpt lat="39.864725" lon="72.411857">
+		<name>ПИК ГЕЗАРТ</name>
+	</wpt>
+	<wpt lat="39.866863" lon="72.458721">
+		<name>НОЧЬ10</name>
+	</wpt>
+	<wpt lat="39.872815" lon="72.433210">
+		<name>НОЧЬ9</name>
+	</wpt>
+	<wpt lat="39.854019" lon="72.305321">
+		<name>НОЧЬ5</name>
+	</wpt>
+	<wpt lat="39.794481" lon="72.521955">
+		<name>НОЧЬ12</name>
+	</wpt>
+	<wpt lat="39.743737" lon="72.587532">
+		<name>ТУР КЕКДЖАР</name>
+	</wpt>
+	<wpt lat="39.747171" lon="72.609614">
+		<name>ОБЕД 15</name>
+	</wpt>
+	<wpt lat="39.775332" lon="72.607386">
+		<name>НОЧЬ15</name>
+	</wpt>
+	<wpt lat="39.769115" lon="72.524483">
+		<name>ТУР СПАРТАК</name>
+	</wpt>
+	<wpt lat="39.761771" lon="72.549690">
+		<name>НОЧЬ14</name>
+	</wpt>
+	<wpt lat="39.795961" lon="72.605413">
+		<name>ТУР СКОБЕЛЕВА СВЯЗНОЙ</name>
+	</wpt>
+	<wpt lat="39.802553" lon="72.609731">
+		<name>НОЧЬ16</name>
+	</wpt>
+	<wpt lat="39.800068" lon="72.619330">
+		<name>ТУР СКОБЕЛЕВА</name>
+	</wpt>
+	<wpt lat="39.806624" lon="72.636662">
+		<name>НОЧЬ17</name>
+	</wpt>
+	<wpt lat="39.880289" lon="72.326202">
+		<name>НОЧЬ4</name>
+	</wpt>
+	<wpt lat="39.822609" lon="72.503552">
+		<name>НОЧЬ11</name>
+	</wpt>
+</gpx>
