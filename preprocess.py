@@ -37,7 +37,7 @@ _DATA = {
     "ACTIVE_DAYS": "21",
     "CATEGORY_WORD": "III",
     "CHAMP_TITLE_RP": "Чемпионате Москвы",
-    "CHAMP_PROTO_DATE": "21.02.2026",  # TODO
+    "CHAMP_PROTO_DATE": "24.02.2026",  # TODO
     "CHAMP_PROTO": "https://fst-otm.net/f9.pdf",  # TODO
     "CHAMP_PLACE": "???",  # TODO
     "DATE_START": "26.07.2025",
@@ -48,6 +48,7 @@ _DATA = {
     "MARSH_CIPHER": "11/3-306",
     "MARSH_LINK": "https://github.com/dichlofos/kichik-alay-2025/tree/main/marshrutka",
     "MAX_HEIGHT": "4690",
+    "MAX_HEIGHT_LOCATION": "пер. Дамджайлоо Траверсный"
     "MAX_SLEEP": "4440",
     "MSU_REPORT_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "NK_TRACK": "https://nakarte.me/#m=12/39.84005/72.55165&l=O/N/F/B/Wp&nktl=Xub6GZHa69C4sn0H4WTJBg",
