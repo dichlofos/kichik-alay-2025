@@ -22,8 +22,10 @@
 - Отчёт в~[каталоге Вестры]https://westra.ru/passes/Reports/???)
 - Отчёт на сайте [Горного Турклуба МГУ](https://www.geolink-group.com/tourclub/trips/2025mv3/)
 - Последнее обновление: 24.01.2026
-- Версия: 0.4
-- На Чемпионате Москвы, согласно протоколам, поход занял [??? место](https://fst-otm.net/f9.pdf)
+- Версия: 0.5
+- На соревнованиях Чемпионат Москвы от 24.02.2026 поход занял 2 место, набрав `37.13` 
+баллов (100.67% от лидера)
+- [Итоговый протокол](https://fst-otm.net/file/rezult/marshrut_scan/2026CHM/chm2026_gori_3_f9.pdf) от 24.02.2026 в формате PDF
 
 # Нитка маршрута
 
@@ -50,12 +52,9 @@
 - Исходный [текст отчёта](https://github.com/dichlofos/kichik-alay-2025/blob/main/source_report_kichik_alay_2025.md)
 - Версия для чтения в формате [Markdown](https://github.com/dichlofos/kichik-alay-2025/blob/main/report_kichik_alay_2025.md)
 
-- TODO [Копия отчёта]( https://yadi.sk/404) в формате PDF + трек с точками, отправленные на Чемпионат Москвы 2026.
-- [Итоговый судейский протокол](https://fst-otm.net/f9.pdf) от 21.02.2026 в формате PDF
-- TODO По результатам Чемпионата Москвы 2026 поход занял ?-е место, набрав `??.??` баллов. TODO
+- [Копия отчёта](https://disk.yandex.ru/d/18ktNvB9H5V0vw) в формате PDF + трек с точками, отправленные на Чемпионат Москвы.
 - Маршрутная книжка: [фотокопия](https://github.com/dichlofos/kichik-alay-2025/tree/main/marshrutka)
 - [Финальная версия отчёта](https://www.geolink-group.com/tourclub/trips/2025mv3/) для хранения в архиве
-- Шифр TLIB: `<todo>/TLIB`
 
 # Описания перевалов
 

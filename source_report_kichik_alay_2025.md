@@ -3,7 +3,6 @@
 
 # Сводная информация
 
-
 - Сроки похода: {DATE_START}&nbsp;&mdash; {DATE_END}
 - Руководитель: Вельтищев Михаил Николаевич, 5ГУ, 3ГР ([dichlofos-mv@yandex.ru](mailto:dichlofos-mv@yandex.ru))
 - Тип: горный
@@ -19,7 +18,10 @@
 - Отчёт на сайте [Горного Турклуба МГУ](https://www.geolink-group.com/tourclub/trips/2025mv3/)
 - Последнее обновление: {LAST_UPDATE}
 - Версия: {VERSION}
-- На {CHAMP_TITLE_RP} от {CHAMP_DATE}, согласно протоколам, поход занял [{CHAMP_PLACE} место]({CHAMP_PROTO_LINK})
+- На соревнованиях {CHAMP_TITLE} от {CHAMP_PROTO_DATE} поход занял {CHAMP_PLACE} место, набрав `{CHAMP_RATE}` 
+баллов ({CHAMP_COEF} от лидера)
+- [Итоговый протокол]({CHAMP_PROTO_LINK}) от {CHAMP_PROTO_DATE} в формате PDF
+
 <!--@@END(MD)-->
 <!--@@BEGIN(TEX)-->
 \begin{center}

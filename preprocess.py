@@ -36,10 +36,14 @@ def _read_file(file_name):
 _DATA = {
     "ACTIVE_DAYS": "21",
     "CATEGORY_WORD": "III",
+    "CHAMP_TITLE": "Чемпионат Москвы",
     "CHAMP_TITLE_RP": "Чемпионате Москвы",
-    "CHAMP_PROTO_DATE": "24.02.2026",  # TODO
-    "CHAMP_PROTO": "https://fst-otm.net/f9.pdf",  # TODO
-    "CHAMP_PLACE": "???",  # TODO
+    "CHAMP_PROTO_DATE": "24.02.2026",
+    "CHAMP_PROTO_LINK": "https://fst-otm.net/file/rezult/marshrut_scan/2026CHM/chm2026_gori_3_f9.pdf",
+    "CHAMP_REPORT_LINK": "https://disk.yandex.ru/d/18ktNvB9H5V0vw",
+    "CHAMP_PLACE": "2",
+    "CHAMP_RATE": "37.13",
+    "CHAMP_COEF": "100.67%",
     "DATE_START": "26.07.2025",
     "DATE_END": "15.08.2025",
     "DISTANCE_ALL": "155",
@@ -48,7 +52,7 @@ _DATA = {
     "MARSH_CIPHER": "11/3-306",
     "MARSH_LINK": "https://github.com/dichlofos/kichik-alay-2025/tree/main/marshrutka",
     "MAX_HEIGHT": "4690",
-    "MAX_HEIGHT_LOCATION": "пер. Дамджайлоо Траверсный"
+    "MAX_HEIGHT_LOCATION": "пер. Дамджайлоо Траверсный",
     "MAX_SLEEP": "4440",
     "MSU_REPORT_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "NK_TRACK": "https://nakarte.me/#m=12/39.84005/72.55165&l=O/N/F/B/Wp&nktl=Xub6GZHa69C4sn0H4WTJBg",
@@ -60,7 +64,7 @@ _DATA = {
     "REPORT_FINAL_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "TRIP_NAME": _TRIP_NAME,
     "TLIB_CIPHER": "<todo>/TLIB",  # TODO
-    "VERSION": "0.4",
+    "VERSION": "0.5",
     "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
     "YEAR": _YEAR,
 }

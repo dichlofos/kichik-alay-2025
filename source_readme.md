@@ -23,7 +23,9 @@
 - Отчёт на сайте [Горного Турклуба МГУ]({MSU_REPORT_LINK})
 - Последнее обновление: {LAST_UPDATE}
 - Версия: {VERSION}
-- На {CHAMP_TITLE_RP}, согласно протоколам, поход занял [{CHAMP_PLACE} место]({CHAMP_PROTO})
+- На соревнованиях {CHAMP_TITLE} от {CHAMP_PROTO_DATE} поход занял {CHAMP_PLACE} место, набрав `{CHAMP_RATE}` 
+баллов ({CHAMP_COEF} от лидера)
+- [Итоговый протокол]({CHAMP_PROTO_LINK}) от {CHAMP_PROTO_DATE} в формате PDF
 
 # Нитка маршрута
 
@@ -37,12 +39,9 @@
 - Исходный [текст отчёта]({REPO_URL}/source_report_{TRIP_NAME}.md)
 - Версия для чтения в формате [Markdown]({REPO_URL}/report_{TRIP_NAME}.md)
 
-- TODO [Копия отчёта]( https://yadi.sk/404) в формате PDF + трек с точками, отправленные на Чемпионат Москвы 2026.
-- [Итоговый судейский протокол]({CHAMP_PROTO}) от {CHAMP_PROTO_DATE} в формате PDF
-- TODO По результатам Чемпионата Москвы 2026 поход занял ?-е место, набрав `??.??` баллов. TODO
+- [Копия отчёта]({CHAMP_REPORT_LINK}) в формате PDF + трек с точками, отправленные на {CHAMP_TITLE}.
 - Маршрутная книжка: [фотокопия]({MARSH_LINK})
 - [Финальная версия отчёта]({REPORT_FINAL_LINK}) для хранения в архиве
-- Шифр TLIB: `{TLIB_CIPHER}`
 
 # Описания перевалов
 
