@@ -48,7 +48,7 @@ _DATA = {
     "DATE_END": "15.08.2025",
     "DISTANCE_ALL": "155",
     "DISTANCE_RATED": "142",
-    "LAST_UPDATE": "24.01.2026",
+    "LAST_UPDATE": "07.03.2026",
     "MARSH_CIPHER": "11/3-306",
     "MARSH_LINK": "https://github.com/dichlofos/kichik-alay-2025/tree/main/marshrutka",
     "MAX_HEIGHT": "4690",
@@ -65,7 +65,7 @@ _DATA = {
     "TRIP_NAME": _TRIP_NAME,
     "TLIB_CIPHER": "2981/TLIB",
     "VERSION": "0.5",
-    "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
+    "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/5174",
     "YEAR": _YEAR,
 }
 
