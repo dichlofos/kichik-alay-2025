@@ -13,7 +13,7 @@
 - Максимальная высота: 4690 м (пер. Дамджайлоо Траверсный)
 - Максимальная высота ночёвки: 4440
 - Турклуб: [Горный Турклуб МГУ](https://www.geolink-group.com/tourclub)
-- Шифр TLIB: `<todo>/TLIB`
+- Шифр TLIB: `2981/TLIB`
 - Отчёт в&nbsp;[каталоге Вестры]({WESTRA https://westra.ru/passes/Reports/???)
 - Отчёт на сайте [Горного Турклуба МГУ](https://www.geolink-group.com/tourclub/trips/2025mv3/)
 - Последнее обновление: 24.01.2026

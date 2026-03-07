@@ -18,7 +18,7 @@
 - Максимальная высота: 4690 м
 - Максимальная высота ночёвки: 4440 м
 - Турклуб: [Горный Турклуб МГУ](https://www.geolink-group.com/tourclub)
-- Шифр TLIB: `<todo>/TLIB`
+- Шифр TLIB: `2981/TLIB`
 - Отчёт в~[каталоге Вестры]https://westra.ru/passes/Reports/???)
 - Отчёт на сайте [Горного Турклуба МГУ](https://www.geolink-group.com/tourclub/trips/2025mv3/)
 - Последнее обновление: 24.01.2026

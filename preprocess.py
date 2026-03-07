@@ -63,7 +63,7 @@ _DATA = {
     "REPO_URL": "https://github.com/dichlofos/kichik-alay-2025/blob/main",
     "REPORT_FINAL_LINK": "https://www.geolink-group.com/tourclub/trips/2025mv3/",
     "TRIP_NAME": _TRIP_NAME,
-    "TLIB_CIPHER": "<todo>/TLIB",  # TODO
+    "TLIB_CIPHER": "2981/TLIB",
     "VERSION": "0.5",
     "WESTRA_REPORT_LINK": "https://westra.ru/passes/Reports/???",  # TODO
     "YEAR": _YEAR,
